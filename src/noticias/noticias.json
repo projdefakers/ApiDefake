@@ -5,20 +5,20 @@
         {
             "id": "1",
             "noticia": "é mentira que a receita federal do rio grande do sul está retendo caminhões com doações que não apresentam nota fiscal",
-            "fonte": "",
-            "data": ""
+            "fonte": "x",
+            "data": "x"
         },
         {
             "id": "2",
             "noticia": "é mentira que existem corpos de famílias inteiras dentro de casas na Mathias Velho em Canoas",
-            "fonte": "",
-            "data": ""
+            "fonte": "x",
+            "data": "x"
         },
         {
             "id": "3",
             "noticia": "é verdade que o dique da vila tronco está extravasando água mas é mentira que o mesmo rompeu",
-            "fonte": "",
-            "data": ""
+            "fonte": "x",
+            "data": "x"
         }
     ]
 }
